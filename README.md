@@ -4,7 +4,7 @@
 
 ### Hi, I'm Aisa 👋
 
-<a href="https://www.linkedin.com/in/aisa-asghari/" target="_blank" style="background-color:rgb(0,120,171); padding:8px 12px;"><img src="https://github.com/Aisa-Asghari/Aisa-Asghari/blob/main/linkedin-logo.jpg" width="100px" style="float:right" /></a>
+<a href="https://www.linkedin.com/in/aisa-asghari/" target="_blank" style="background-color:rgb(0,120,171); padding:8px 12px;"><img src="https://github.com/Aisa-Asghari/Aisa-Asghari/blob/main/linkedin-logo.png" width="100px" style="float:right" /></a>
 
 ###### I am a detail oriented and highly motivated developer with a year of experience
 ###### I have strong time management and organizational skills to prioritize tasks and projects
