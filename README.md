@@ -15,11 +15,11 @@
 - Persian 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Aisa-Asghari&color=brightblue" alt="nakulbhati" />
+  <img src="https://komarev.com/ghpvc/?username=Aisa-Asghari" alt="nakulbhati" />
 </p>
 
 <p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Aisa-Asghari&show_icons=true&theme=monokai&count_private=true" 
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Aisa-Asghari&show_icons=true&theme=tokyonight&count_private=true" 
        <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aisa-Asghari&theme=merko&layout=compact&hide_langs_below=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aisa-Asghari&theme=default&layout=compact&hide_langs_below=1" />
 </p>
