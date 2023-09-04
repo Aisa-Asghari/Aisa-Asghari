@@ -2,9 +2,9 @@
 
 <a href="https://www.linkedin.com/in/aisa-asghari/" target="_blank" style="background-color:rgb(0,120,171); padding:8px 12px;"><img src="https://github.com/Aisa-Asghari/Aisa-Asghari/blob/main/linkedin-logo.png" width="100px" style="float:right" /></a>
 
-###### I am a detail oriented and highly motivated developer with a year of experience
-###### I have strong time management and organizational skills to prioritize tasks and projects
-###### I use JavaScript, Windows Forms, .NET Core, SQL Server, CSS, Bootstrap, Entity Framework, ADO.NET and Ajax.
+###### As a dedicated and driven developer, I specialize in Vanilla JavaScript, C#, Windows Forms, and .NET Core, consistently surpassing expectations in every project. My commitment to excellence and strong work ethic have enabled me to deliver high-quality results in various development environments.
+###### Experienced in agile project management, I conduct daily scrum meetings and ensure projects are delivered on time and within budget. My keen attention to detail enables me to prioritize tasks efficiently, giving each project the focus it deserves. I am well-versed in various project management tools and methodologies, which further enhances my ability to manage resources effectively.
+###### In addition to technical prowess, I excel in communication and collaboration. I thrive in fast-paced settings where teamwork is crucial, consistently going the extra mile to support my colleagues and guarantee project success. My interpersonal skills and adaptability have proven valuable in fostering positive working relationships and navigating diverse team dynamics.
 ##### Languages I speak:
 - English
 - Turkish
