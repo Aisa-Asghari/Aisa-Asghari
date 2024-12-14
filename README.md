@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aisa</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
-###### As a dedicated and driven developer, I specialize in Vanilla JavaScript, C#, Windows Forms, and .NET Core, consistently surpassing expectations in every project. My commitment to excellence and strong work ethic have enabled me to deliver high-quality results in various development environments.
-###### Experienced in agile project management, I conduct daily scrum meetings and ensure projects are delivered on time and within budget. My keen attention to detail enables me to prioritize tasks efficiently, giving each project the focus it deserves. I am well-versed in various project management tools and methodologies, which further enhances my ability to manage resources effectively.
-###### In addition to technical prowess, I excel in communication and collaboration. I thrive in fast-paced settings where teamwork is crucial, consistently going the extra mile to support my colleagues and guarantee project success. My interpersonal skills and adaptability have proven valuable in fostering positive working relationships and navigating diverse team dynamics.
+###### I am a dedicated and driven developer with a strong focus on C#, SQL, and JavaScript. Throughout my career, I have consistently exceeded expectations in every project I undertake, driven by my commitment to excellence and a relentless work ethic.
+###### I have designed highly effective data models that have significantly improved system performance. By optimizing query response times and implementing scalable solutions, I have successfully addressed diverse business needs.
+###### In addition to my technical skills, I am experienced in agile project management. I conduct daily scrum meetings and ensure projects are delivered on time and within budget. My meticulous attention to detail allows me to prioritize tasks effectively, ensuring each task receives the attention it deserves. I am well-versed in various project management tools and methodologies, further enhancing my ability to manage resources efficiently.
+###### My passion for coding and continuous learning drives me to explore new technologies and collaborate with fellow professionals. I thrive on challenging projects that allow me to further sharpen my skills and contribute to team success.
+###### Beyond technical expertise, I excel in communication and collaboration. I thrive in fast-paced environments where teamwork is essential, always willing to go the extra mile to support my colleagues and ensure project success. My adaptability and interpersonal skills have been instrumental in fostering positive working relationships and navigating diverse team dynamics.
+###### With a proven track record of delivering exceptional work and a dedication to ongoing learning and professional growth, I am confident in my ability to make valuable contributions to any team. Let's connect and explore opportunities to collaborate, driving innovation in the ever-evolving world of technology!
 ##### Languages I speak:
 - English
 - Turkish
